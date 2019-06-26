@@ -8,7 +8,7 @@ import Orders from '../Orders/Orders';
 class Home extends React.Component {
   render() {
     return (
-      <div className="Home">
+      <div className="Home container">
         <div className="row">
         <Inventory />
         <NewOrder />
